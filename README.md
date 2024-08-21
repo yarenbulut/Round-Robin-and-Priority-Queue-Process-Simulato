@@ -11,11 +11,4 @@ The `operating.py` file is a key component of this project. It contains Python c
 - **Round-Robin Scheduling**: Implements the Round-Robin algorithm to manage process execution in a cyclic order.
 - **Priority Queue Scheduling**: Implements the Priority Queue algorithm to manage process execution based on priority levels.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yarenbulut/Round-Robin-and-Priority-Queue-Process-Simulato.git
 
